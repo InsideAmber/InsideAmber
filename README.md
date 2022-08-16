@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and working mostly with web technlogies.
 - 💼 &nbsp; Working as a full stack web developer at Celebal Technologies.
-- 🌱 &nbsp; Learning more about coding and core engineering practice.
+- 🌱 &nbsp; Learning more about coding, open source and core engineering practice.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
