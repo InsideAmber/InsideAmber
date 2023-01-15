@@ -36,15 +36,15 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-<br/>
+  <br/>
 
-  ![Amber's GitHub stats](https://github-readme-stats.vercel.app/api?username=InsideAmber&show_icons=true&theme=dark) &nbsp; &nbsp;
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsideAmber&theme=dark&layout=compact)](https://github.com/InsideAmber/github-readme-stats)  
+  ![Amber's GitHub stats](https://github-readme-stats.vercel.app/api?username=InsideAmber&show_icons=true) &nbsp; &nbsp;
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsideAmber&layout=compact)](https://github.com/InsideAmber/github-readme-stats)  
   <h1> 💻 &nbsp; Top Projects</h1>
   
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InsideAmber&theme=dark&repo=MERN_Goals_app)](https://github.com/InsideAmber/MERN_Goals_app)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InsideAmber&theme=dark&repo=react-tree)](https://github.com/InsideAmber/react-tree)
-<br/>
+  <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
