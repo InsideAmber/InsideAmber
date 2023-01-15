@@ -30,8 +30,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=InsideAmber&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InsideAmber&layout=compact" />
+  ![Amber's GitHub stats](https://github-readme-stats.vercel.app/api?username=InsideAmber&show_icons=true&theme=transparent)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsideAmber&layout=compact)](https://github.com/InsideAmber/github-readme-stats)
 </a>
 
 <br/>
