@@ -31,9 +31,10 @@
 
   ![Amber's GitHub stats](https://github-readme-stats.vercel.app/api?username=InsideAmber&show_icons=true&theme=dark) &nbsp; &nbsp;
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsideAmber&theme=dark&layout=compact)](https://github.com/InsideAmber/github-readme-stats)  
-<br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InsideAmber&theme=dark&repo=github-readme-stats)](https://github.com/InsideAmber/github-readme-stats)
-
+  <h1> 💻 &nbsp; Top Projects</h1>
+  
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InsideAmber&theme=dark&repo=MERN_Goals_app)](https://github.com/InsideAmber/MERN_Goals_app)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InsideAmber&theme=dark&repo=InsideAmber)](https://github.com/InsideAmber/InsideAmber)
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
