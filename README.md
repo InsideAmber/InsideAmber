@@ -29,8 +29,11 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
-  ![Amber's GitHub stats](https://github-readme-stats.vercel.app/api?username=InsideAmber&show_icons=true&theme=transparent)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsideAmber&langs_count=8)](https://github.com/InsideAmber/github-readme-stats)
+  ![Amber's GitHub stats](https://github-readme-stats.vercel.app/api?username=InsideAmber&show_icons=true&theme=dark) &nbsp; &nbsp;
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsideAmber&theme=dark&layout=compact)](https://github.com/InsideAmber/github-readme-stats)  
+<br/>
+
+[![Amber's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=InsideAmber&theme=dark)](https://github.com/InsideAmber/github-readme-stats)
 
 <br/>
 
