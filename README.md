@@ -33,7 +33,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsideAmber&theme=dark&layout=compact)](https://github.com/InsideAmber/github-readme-stats)  
 <br/>
 
-[![Amber's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=InsideAmber&theme=dark)](https://github.com/InsideAmber/github-readme-stats)
 
 <br/>
 
