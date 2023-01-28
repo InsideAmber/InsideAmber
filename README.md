@@ -42,7 +42,7 @@
   [![Top Langs](https://github-readme-stats-ud4x.vercel.app/api/top-langs/?username=InsideAmber&layout=compact&theme=radical)](https://github.com/InsideAmber/github-readme-stats)  
   <h2> 💻 &nbsp; Top Repo</h2>
   
-   [![Readme Card](https://github-readme-stats-ud4x.vercel.app/api/pin/?username=InsideAmber&theme=radical&repo=Goalsetter-Project)](https://github.com/InsideAmber/Goalsetter-Project) &nbsp; &nbsp
+   [![Readme Card](https://github-readme-stats-ud4x.vercel.app/api/pin/?username=InsideAmber&theme=radical&repo=Goalsetter-Project)](https://github.com/InsideAmber/Goalsetter-Project) &nbsp; &nbsp;
    [![Readme Card](https://github-readme-stats-ud4x.vercel.app/api/pin/?username=InsideAmber&theme=radical&repo=Memories-Project)](https://github.com/InsideAmber/Memories-Project)
    [![Readme Card](https://github-readme-stats-ud4x.vercel.app/api/pin/?username=InsideAmber&theme=radical&repo=Project-Management)](https://github.com/InsideAmber/Project-Management) &nbsp; &nbsp;
    [![Readme Card](https://github-readme-stats-ud4x.vercel.app/api/pin/?username=InsideAmber&theme=radical&repo=react-tree)](https://github.com/InsideAmber/react-tree)
