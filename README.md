@@ -45,6 +45,7 @@
    [![Readme Card](https://github-readme-stats-ud4x.vercel.app/api/pin/?username=InsideAmber&theme=radical&repo=Goalsetter-Project)](https://github.com/InsideAmber/Goalsetter-Project) &nbsp;
    [![Readme Card](https://github-readme-stats-ud4x.vercel.app/api/pin/?username=InsideAmber&theme=radical&repo=Memories-Project)](https://github.com/InsideAmber/Memories-Project)
    [![Readme Card](https://github-readme-stats-ud4x.vercel.app/api/pin/?username=InsideAmber&theme=radical&repo=Project-Management)](https://github.com/InsideAmber/Project-Management) &nbsp;
+   [![Readme Card](https://github-readme-stats-ud4x.vercel.app/api/pin/?username=InsideAmber&theme=radical&repo=Dall-E-2.0)](https://github.com/InsideAmber/Dall-E-2.0)
    [![Readme Card](https://github-readme-stats-ud4x.vercel.app/api/pin/?username=InsideAmber&theme=radical&repo=react-tree)](https://github.com/InsideAmber/react-tree)
   <br/>
 
