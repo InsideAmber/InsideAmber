@@ -65,7 +65,7 @@
 
 ### 🌐 Portfolio & Resume
 
-🔗 [**amberkhan.dev**](https://insideamber.github.io/Amber-Resume/) — My portfolio website  
+🔗 [![Amber Portfolio Preview](https://postimg.cc/7bDzHTp1)](https://insideamber.github.io/Amber-Resume/) — My portfolio website  
 📄 [Resume (Download)](https://insideamber.github.io/Amber_Khan_MERN_Stack_Resume_2025.pdf)
 
 ---
