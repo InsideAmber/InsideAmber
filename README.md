@@ -47,7 +47,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-ud4x.vercel.app/api?username=InsideAmber&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats-ud4x.vercel.app/api?username=InsideAmber&show_icons=true&theme=radical" height="165"> &nbsp; &nbsp;
   <img src="https://github-readme-stats-ud4x.vercel.app/api/top-langs/?username=InsideAmber&layout=compact&theme=radical" height="165">
 </p>
 
